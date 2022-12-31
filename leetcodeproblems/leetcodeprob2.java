@@ -1,3 +1,5 @@
+package leetcodeproblems;
+
 public class leetcodeprob2 {
     //number of chars in last part of the string
     public static void main(String[] args) {
