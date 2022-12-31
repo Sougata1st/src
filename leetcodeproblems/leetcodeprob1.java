@@ -1,5 +1,3 @@
-package leetcodeproblems;
-
 import java.util.Arrays;
 
 public class leetcodeprob1 {
