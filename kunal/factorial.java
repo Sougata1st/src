@@ -1,3 +1,5 @@
+package kunal;
+
 import java.util.Scanner;
 
 public class factorial {
